@@ -1,6 +1,7 @@
 package com.xworkz.app;
 
 public class Ingredients {
+
 	public String name;
 	public int quantity;
 	public double cost;
@@ -22,4 +23,6 @@ public class Ingredients {
 		
 		System.out.println("--------------------------------------------------------------------------------------");
 	}
+	
+
 }
