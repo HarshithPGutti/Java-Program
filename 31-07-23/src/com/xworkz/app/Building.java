@@ -1,7 +1,11 @@
 package com.xworkz.app;
 
 public class Building {
+<<<<<<< HEAD
 	public String buildName;
+=======
+public String buildName;
+>>>>>>> 4d5e2a901f6b20dbf37cf64f85a61c0149c1704a
 	public String location;
 	public int noOfCross;
 	
@@ -43,6 +47,10 @@ public class Building {
 	
 	
 	
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4d5e2a901f6b20dbf37cf64f85a61c0149c1704a
 
 }
 }
